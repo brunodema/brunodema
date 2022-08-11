@@ -5,6 +5,8 @@
 [FlashMEMO]: https://brunodema.outsystemscloud.com/FlashMEMO/Welcome
 [Spaced Repetition]: https://en.wikipedia.org/wiki/Spaced_repetition
 
+[![.NET](https://github.com/brunodema/FlashMEMO-backend/actions/workflows/dotnet.yml/badge.svg)](https://github.com/brunodema/FlashMEMO-backend/actions/workflows/dotnet.yml) [![Create and publish a Docker image](https://github.com/brunodema/FlashMEMO-backend/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/brunodema/FlashMEMO-backend/actions/workflows/docker-publish.yml) [![Create and publish a Docker image](https://github.com/brunodema/FlashMEMO/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/brunodema/FlashMEMO/actions/workflows/docker-publish.yml)
+
 ## About Me
 
 Even though I have been messing with coding in general since I was 15, my first actual experiences with programming were between 2011 - 2017, while I was graduating in Chemical Engineering. Most of these experiences were related to engineering tools like [Aspen Plus], [COMSOL], [Matlab], Fortran, VBA and C++. 
