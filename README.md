@@ -7,7 +7,7 @@
 
 [![Angular Testing (Frontend)](https://github.com/brunodema/FlashMEMO/actions/workflows/e2e.yml/badge.svg)](https://github.com/brunodema/FlashMEMO/actions/workflows/e2e.yml)
 [![Create and publish a Docker image (Frontend/AWS-ECS)](https://github.com/brunodema/FlashMEMO/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/brunodema/FlashMEMO/actions/workflows/docker-publish.yml)
-[![Create and publish a Docker image (Secrets/AWS-ECS)](https://github.com/brunodema/FlashMEMO-secrets/actions/workflows/docker-image.yml/badge.svg)](https://github.com/brunodema/FlashMEMO-secrets/actions/workflows/docker-image.yml)
+[![Create and publish a Docker image (Secrets)](https://github.com/brunodema/FlashMEMO-secrets/actions/workflows/build-and-push-image.yml/badge.svg)](https://github.com/brunodema/FlashMEMO-secrets/actions/workflows/build-and-push-image.yml)
 [![.NET Testing (Backend)](https://github.com/brunodema/FlashMEMO-backend/actions/workflows/dotnet.yml/badge.svg)](https://github.com/brunodema/FlashMEMO-backend/actions/workflows/dotnet.yml)
 [![Create and publish a Docker image (Backend/AWS-ECS)](https://github.com/brunodema/FlashMEMO-backend/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/brunodema/FlashMEMO-backend/actions/workflows/docker-publish.yml)
 
