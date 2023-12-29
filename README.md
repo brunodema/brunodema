@@ -1,6 +1,5 @@
 [Aspen Plus]: https://www.aspentech.com/en/products/engineering/aspen-plus
 [COMSOL]: https://www.comsol.com/
-[Matlab]: https://www.mathworks.com/products/matlab.html
 [Outsystems]: https://www.outsystems.com/
 [FlashMEMO]: https://brunodema.outsystemscloud.com/FlashMEMO/Welcome
 [Spaced Repetition]: https://en.wikipedia.org/wiki/Spaced_repetition
@@ -11,12 +10,12 @@
 [![.NET Testing (Backend)](https://github.com/brunodema/FlashMEMO-backend/actions/workflows/dotnet.yml/badge.svg)](https://github.com/brunodema/FlashMEMO-backend/actions/workflows/dotnet.yml)
 [![Create and publish a Docker image (Backend/AWS-ECS)](https://github.com/brunodema/FlashMEMO-backend/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/brunodema/FlashMEMO-backend/actions/workflows/docker-publish.yml)
 
-## About Me
+# About Me
 
-Even though I have been messing with coding in general since I was 15, my first actual experiences with programming were between 2011 - 2017, while I was graduating in Chemical Engineering. Most of these experiences were related to engineering tools like [Aspen Plus], [COMSOL], [Matlab], Fortran, VBA and C++. 
+Although I've been tinkering with coding since the age of 15, my formal experiences with programming occurred between 2011 and 2017 while I was pursuing my degree in Chemical Engineering. During this time, I worked extensively with engineering tools such as [Aspen Plus], [COMSOL], Matlab, Fortran, VBA, and C++.
 
-In 2018, I started working with Operations Research, focusing on mathematical models designed for the optimization of integrated logistic systems. Most of my work in this area is related to algorithm development using CLI C/C++ apps. During this period, I also worked as a full-stack developer in a [Outsystems] based project. More recently, I started working as a software developer, where I deal on a daily basis with C# development (.NET Framework, .NET Core), C/C++ (Win32), CMake, SQL, network management, and so many other recurring tools in the world of development. 
+In 2018, I transitioned to Operations Research, specializing in the development of mathematical models for optimizing integrated logistic systems. My focus then was algorithm development using CLI C/C++ applications. Simultaneously, I worked as a full-stack developer on an [Outsystems]-based project during that period. Since then, I've been professionally involved in the development of web and desktop applications, with a current emphasis on C# (.NET Framework, .NET Core) and C++ development.
 
-I also have a pet project called [FlashMEMO], which is a learning platform based on Flashcards and the [Spaced Repetition] memorization method. **I'm currently developping a new version of the FlashMEMO website, which uses tools such as .NET Core, Angular, Kubernetes, AWS, and more. For security reasons I set those as private repositories, but I can share them with you if request it.**
+One of my pet projects is FlashMEMO, a learning platform based on Flashcards and [Spaced Repetition]. Although I initially hosted a version of the website on the Outsystems cloud environment, recent updates disrupted key functionalities. Consequently, I've been developing a new version, primarily based on Angular and .NET. You can access it here (coming soon™). *While I maintain the source code privately for security reasons, I am happy to share it with you if you are interested in this pet project*.
 
-All these personal projects have the goal of extending my knowledge of programming tools, and also to learn and apply the most recent architecture and coding guidelines.   
+On this GitHub page you'll find various small projects developed throughout my academic career or in recent days. These projects span from algorithm implementations to simple proof-of-concept applications, serving the purpose of validating coding paradigms that interest me. All personal projects showcased here aim to expand my knowledge of programming tools and to explore and apply the latest architectural and coding guidelines.   
